@@ -1,3 +1,4 @@
+// This is new insertion in the code
 #include <iostream>
 
 using namespace std;
@@ -22,5 +23,5 @@ int main() {
     // Print the result
     cout << "Area of the rectangle: " << area << endl;
 
-    return 0;
+    return 1;
 }
